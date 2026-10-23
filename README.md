@@ -4,7 +4,7 @@ Proyecto de análisis de datos de punta a punta: limpieza y control de calidad, 
 
 > **Sobre los datos:** la base es sintética (la genera `generar_datos.py` con semilla fija; solo los `cart_id` cambian en cada ejecución) y los montos están en una escala común, sin conversión entre monedas. El objetivo es mostrar el método de análisis. Las conclusiones describen esta base y no un negocio real.
 
-**Dashboard interactivo:** abrí `dashboard.html` en el navegador (no necesita servidor) o publicalo con GitHub Pages.
+**Dashboard interactivo:** [ver el panel en línea](https://alfonsoladoux-del.github.io/proyecto-venta-envios/dashboard.html)
 
 ## Preguntas de negocio
 
